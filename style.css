@@ -3,7 +3,7 @@ body {
     padding: 0;
     background-color: black;
     color: white;
-    background-image: url(./images/RobloxHQ.webp);
+    background-image: url("https://raw.githubusercontent.com/Starsinns/JaneDoeWebsite/main/images/RobloxHQ.webp");
 }
 
 .parent {
