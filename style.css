@@ -1,0 +1,191 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+    background-image: url(/images/RobloxHQ.webp);
+}
+
+.parent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.right {
+    display: flex;
+    width: 40%;
+    height: 50%;
+    overflow-y: auto;
+    background-color: rgba(0, 0, 130, 1);
+}
+
+.right h1 {
+    color: white;
+    font-size: 1.2rem;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
+    width: 15%;
+    height: 50%;
+    padding: 20px;
+    overflow-y: auto;
+    background-color: rgba(0, 0, 130, 1);
+}
+
+.latestentry {
+    margin-left: 20px;
+}
+
+.latestentrytxt {
+    margin: 0;
+    color: white;
+    font-size: 0.9rem;
+    margin-bottom: 10px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.posttitle {
+    margin: 0;
+    font-size: 1rem;
+}
+
+.datentime {
+    margin: 0;
+    font-size: 0.7rem;
+    color: lightgray;
+    opacity: 0.8;
+    letter-spacing: 1px;
+}
+
+.preview {
+    font-size: 0.8rem;
+    color: lightgray;
+    opacity: 0.8;
+    letter-spacing: 1px;
+}
+
+.continue {
+    color: gold;
+    text-decoration: none;
+    font-size: 0.8rem;
+}
+
+.statusfeed {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 20px;
+}
+
+.statusfeed li {
+    font-size: 0.8rem;
+    color: lightgray;
+    opacity: 0.8;
+    letter-spacing: 1px;
+    margin-bottom: 6px;
+}
+
+.statustime {
+    color: white;
+    opacity: 1;
+    margin-right: 6px;
+}
+
+.status {
+    margin-bottom: 20px;
+}
+
+.status h2 {
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 1rem;
+}
+
+.line {
+    width: 100%;
+    height: 1px;
+    background-color: lightgray;
+    margin-top: 20px;
+    opacity: 0.2;
+}
+
+.title {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.navtitle {
+    font-size: 0.9rem;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: white;
+    margin: 0 0 16px 0;
+}
+
+.navlink {
+    display: block;
+    font-size: 1rem;
+    color: gold;
+    text-decoration: none;
+    padding: 6px 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.navlink:hover {
+    color: white;
+    font-size: 1.1rem;
+    transition: font-size 0.15s ease;
+}
+
+.navlink::after {
+    content: " →";
+    opacity: 0;
+    transition: opacity 0.15s ease;
+}
+
+.navlink:hover::after {
+    opacity: 1;
+}
+
+.continue:hover {
+    color: white;
+}
+
+.continue::after {
+    opacity: 0;
+    transition: opacity 0.15s ease;
+}
+
+.continue:hover::after {
+    opacity: 1;
+}
+
+.creditdiv {
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.credit {
+    font-size: 0.5rem;
+    color: lightgray;
+    opacity: 0.8;
+    letter-spacing: 1px;
+    margin-top: 20px;
+    align-self: flex-end;
+    opacity: 0.4;
+}
