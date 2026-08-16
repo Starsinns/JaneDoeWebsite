@@ -206,6 +206,45 @@ body {
     opacity: 0.4;
 }
 
+.posts-container{
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+    padding: 50px;
+}
+
+.post-block .posttitle {
+    margin: 0 0 0.4rem 0;
+    font-size: 1.25rem;
+    font-weight: 700;
+    padding: 0 50px;
+}
+
+.post-block .datentime {
+    margin: 0 0 0.8rem 0;
+    font-size: 0.9rem;
+    color: #b9b7b7;
+    font-weight: 40;
+    padding: 0 50px;
+}
+
+.post-content {
+    font-size: 0.95rem;
+    line-height: 1.5;
+    color: #e9e6e6;
+}
+
+.post-content p {
+    margin: 0.6rem4;
+    padding: 0 70px;
+}
+
+.line{
+    height: 1px;
+    background: #e0e0e0;
+    margin: 1.2rem 0;
+}
+
 @keyframes panelglow {
     0%, 100% {
         box-shadow:
