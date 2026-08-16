@@ -71,7 +71,7 @@ const blog = {
             <p><strong>MrDoombringer:</strong> He doesn't say much, but when he does, people listen. He's the one who takes the worst reports and doesn't flinch. I wish I could be like that.</p>
             <p><strong>John:</strong> John Doe. Same birthday as me. He sits two desks away and types like he's trying to outrun his own thoughts. I don't know what team he's on, but I've decided I want to find out.</p>
             <p><strong>Brighteyes:</strong> She's supervisor number one and married to Shedletsky. She's usually busy with the marketplace or her two kids, but when she talks to me she seems very extroverted, always wanting people to participate in meetings. I'm unsure how someone with children is so full of energy.</p>
-            <p><strong>Reese McBlox:</strong>She's supervisor number two and very sweet to me. She's the one that usually deals with my reports. I really like being around her.</p> 
+            <p><strong>Reese McBlox:</strong> She's supervisor number two and very sweet to me. She's the one that usually deals with my reports. I really like being around her.</p> 
             <p>It's strange. I spend more hours with these people than I do alone, and yet most of what I know about them is guesswork and hallway rumors.</p>
             <p>Maybe that's what makes this place feel like a story. You never really know who everyone is, only what they do in each chapter.</p>
             <p> RoseShardz - Jane </p>
@@ -114,7 +114,7 @@ const blog = {
             preview: "I was walking home from HQ and realized I've been replaying the same five conversations in my head for weeks.",
             content: `
                 <p>I was walking home from HQ and realized I've been replaying the same five conversations in my head for weeks.</p>
-                <p>Most of them are dumb stuff. Things I said to John in the kitchen. A joke Shedletsky made that I laughed at too late. A sentence Builderman said that I keep trying to decode like it's a secret message.</p>
+                <p>Most of them are dumb stuff. Things I said to John in the cafeteria. A joke Shedletsky made that I laughed at too late. A sentence Builderman said that I keep trying to decode like it's a secret message.</p>
                 <p>I know I do this. I take normal things and turn them into these big dramatic scenes in my head. It's like my brain won't let anything just be normal.</p>
                 <p>Maybe it's because this place feels like a story sometimes. Like we're all characters and I'm trying to figure out my role before someone else decides it for me.</p>
                 <p>Anyway, I'm probably just tired. Night shifts are messing with my head.</p>
