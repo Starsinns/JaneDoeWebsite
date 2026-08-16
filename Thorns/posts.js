@@ -3,7 +3,7 @@ import blog from "./blog.js";
 
 const container = document.getElementById("posts-container");
 
-const postKeys = Object.keys(blog);
+const postKeys = Object.keys(blog).reverse();
 
 postKeys.forEach((key, index) => {
     const post = blog[key];
