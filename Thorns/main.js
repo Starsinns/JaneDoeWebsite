@@ -17,7 +17,7 @@ const latest = blog[latestKey];
 latestTitle.textContent = latest.title;
 latestDateTime.textContent = `${latest.date} // ${latest.time}`;
 latestPreview.textContent = latest.preview;
-continueLink.href = `post.html?post=${encodeURIComponent(latestKey)}`;
+continueLink.href = `post.html`;
 
 // Build status updates (one per post, newest first)
 const statusItems = postKeys
