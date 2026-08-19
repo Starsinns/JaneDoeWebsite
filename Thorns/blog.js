@@ -377,21 +377,324 @@ const blog = {
             `
     },
         "25th Post": {
-    pageTitle: "25th Post",
-    title: "Back at My Desk",
-    date: "14th June 2013",
-    time: "9:30pm",
-    preview: "It's been a while..",
-    content: `
-        <p>It's been a while. I'm back at HQ now, and... I think I needed this. Or maybe I just needed to not be somewhere else. :P</p>
-        <p>Reese and Brighteyes offered me a promotion a few months ago. More responsibility, more access, more say in how things run. I said yes before I even thought about it. It feels good to have something concrete to focus on.</p>
-        <p>Work is... a lot. But in a way that helps. When my head is full of logs and reports and shift schedules, there isn't much room for anything else. I know that's not the healthiest way to think about it, but it works.</p>
-        <p>John worries. He doesn't say it directly, but I can tell. He watches me leave for shifts and watches me come back, like he's waiting for me to break. Maybe I already have. Maybe I'm just better at hiding it now, but his words and kisses make it worth it to still be alive.</p>
-        <p>Brighteyes keeps trying to get me to take breaks, to “go outside”, to “do something that isn't work”. I tell her I will. I don't. Not yet.</p>
-        <p>I'm still me. I'm still Jane. I'm still RoseShardz. I'm just... quieter. More careful with what I say. Maybe that's what happens when you become a mother and realize how much of you belongs to someone else now, even when they're not here to hold it.</p>
-        <p> RoseShardz - Jane </p>
-    `
-},
+            pageTitle: "25th Post",
+            title: "Back at My Desk",
+            date: "14th June 2013",
+            time: "9:30pm",
+            preview: "It's been a while..",
+            content: `
+                <p>It's been a while. I'm back at HQ now, and... I think I needed this. Or maybe I just needed to not be somewhere else. :P</p>
+                <p>Reese and Brighteyes offered me a promotion a few months ago. More responsibility, more access, more say in how things run. I said yes before I even thought about it. It feels good to have something concrete to focus on.</p>
+                <p>Work is... a lot. But in a way that helps. When my head is full of logs and reports and shift schedules, there isn't much room for anything else. I know that's not the healthiest way to think about it, but it works.</p>
+                <p>John worries. He doesn't say it directly, but I can tell. He watches me leave for shifts and watches me come back, like he's waiting for me to break. Maybe I already have. Maybe I'm just better at hiding it now, but his words and kisses make it worth it to still be alive.</p>
+                <p>Brighteyes keeps trying to get me to take breaks, to “go outside”, to “do something that isn't work”. I tell her I will. I don't. Not yet.</p>
+                <p>But.. I.. I keep seeing the same incidents over and over, like the logs are looping. Same exploit, same username pattern, same timestamp errors. I know it's probably just bad code, but sometimes it feels like the system is trying to tell me something.</p>
+                <p>I'm still me. I'm still Jane. I'm still RoseShardz. I'm just... quieter. More careful with what I say. Maybe that's what happens when you become a mother and realize how much of you belongs to someone else now, even when they're not here to hold it.</p>
+                <p> RoseShardz - Jane </p>
+            `
+    },
+        "26th Post": {
+            pageTitle: "26th Post",
+            title: "Promotion Paperwork",
+            date: "3rd November 2013",
+            time: "10:05pm",
+            preview: "I got my promotion papers today..",
+            content: `
+                <p>I got my promotion papers today. Officially, I'm “Senior Moderator” now. It sounds important when I say it out loud.</p>
+                <p>Reese said it's because of my “consistent performance and dedication”. I think it's also because I never say no to extra shifts. If there's work to be done, I'd rather do it than sit at home with too much time to think.</p>
+                <p>John congratulated me. He made dinner, which was nice. We ate in the kitchen, like always. He asked how I felt. I said “happy”. It wasn't a lie, just... not the whole truth.</p>
+                <p>I keep catching myself talking like I'm giving a report instead of writing in this blog. Maybe that's what happens when you spend so much time explaining things to other people that you forget how to explain them to yourself.</p>
+                <p>Some days it feels like I've already lived them. I'll walk into a meeting and swear I've had this exact conversation before, down to the words. I blame it on fatigue. It's easier than thinking about what else it could be.</p>
+                <p>Anyway. New title, more work. Same me. Just… busier. That's good, right?</p>
+                <p> RoseShardz - Jane </p>
+            `
+    },
+        "27th Post": {
+            pageTitle: "27th Post",
+            title: "She's Working Late Again",
+            date: "19th March 2014",
+            time: "1:15am",
+            preview: "John here..",
+            content: `
+                <p>John here. I don't usually post, but... I don't know where else to put this. Jane is at HQ again. It's 1am.</p>
+                <p>She says it's because there's a lot going on, because she got promoted, because they need her. I know all of that is true. I also know that the apartment is quieter when she's not here.</p>
+                <p>I tried talking to her about it. Not in a “you need to stop” way, just... “are you okay?”. She said she's fine. She says that a lot. I'm starting to think “fine” is her default answer now, even when it's not true. I know My Rose. I know she's not fine. I just wish I could get through to her.</p>
+                <p>Reese told me once that Jane is one of the best people they have. That she's reliable, focused, exactly who you want in a crisis. I believe that. I just wish she didn't need a crisis to feel like she has a reason to be here.</p>
+                <p>I'm not angry. I'm just... tired. And I miss her, even though she's still here. That sounds unfair. I don't know how else to say it.</p>
+                <p> - John </p>
+            `
+    },
+        "28th Post": {
+            pageTitle: "28th Post",
+            title: "Anniversary",
+            date: "5th June 2014",
+            time: "11:50pm",
+            preview: "This is John again..",
+            content: `
+                <p>This is John again. I don't write here often, but today... today is hard. For both of us, in different ways.</p>
+                <p>It's been two years since Amber was born. It's also been a year and a half since she died. The dates don't line up neatly, but the pain doesn't care about neat.</p>
+                <p>Jane has't left Amber's room most of the day. She went in this morning and just... stood there. Not crying, not moving, not doing anything. Just standing in the middle of the room like if she moves, something will break even more.</p>
+                <p>I brought her water. She took it without looking at me. I asked if she wanted anything else. She said “no” in this flat, empty voice that doesn't sound like her.</p>
+                <p>I know people mean well when they say “give her time” or “she'll come back when she's ready”. But there are moments where I look at her and I don't know if she's coming back to the same place she left.</p>
+                <p>I'm still here. I'm not going anywhere. I just... I wish I knew how to reach her when she's this far gone. I love her so much and truly would like to not cause her any more pain if I knew I could help it.</p>
+                <p> - John </p>
+            `
+    },
+        "29th Post": {
+            pageTitle: "29th Post",
+            title: "Forced Vacation",
+            date: "9th April 2015",
+            time: "8:40pm",
+            preview: "Reese basically ordered me to take a “mental health day” and go to this new beach-themed experience..",
+            content: `
+                <p>Reese basically ordered me to take a “mental health day” and go to this new beach-themed experience. She said I needed to “relax”. I didn't want to go.</p>
+                <p>The whole thing is… bright. Too much sun, too much blue water, NPCs smiling like they don't know what pain is. I walked around for ten minutes feeling like I was in someone else's idea of happiness.</p>
+                <p>Then I opened the console. Just out of habit. And there it was: faulty code everywhere. Unoptimized loops, event listeners never getting cleaned up, assets loading in the worst possible order. It was like looking at a car that's been painted to look new while the engine is falling apart.</p>
+                <p>I spent the next three hours writing a report instead of “relaxing”. I sent it to the dev team with suggestions, fixes, a whole list. By the end of it, I actually felt... lighter. Not because I was having fun, but because I fixed something.</p>
+                <p>Reese messaged me asking if I had a good time. I told her “productive”. She sighed and said that counts.</p>
+                <p>I guess that's me now. I can't relax, but I can find broken things and make them less broken. Maybe that's enough.</p>
+                <p> RoseShardz - Jane </p>
+            `
+    },
+        "30th Post": {
+            pageTitle: "30th Post",
+            title: "Something in the Logs",
+            date: "22nd July 2015",
+            time: "2:10am",
+            preview: "I was on a field patrol tonight, checking a few experiences that had been flagged.",
+            content: `
+                <p>I was on a field patrol tonight, checking a few experiences that had been flagged. I found something I can't explain. Not yet.</p>
+                <p>At first it looked like normal exploit behavior: weird GUIs, strange scripts running where they shouldn't. But then I saw it. A texture that shouldn't exist. A pattern in the code that repeated itself like it was... growing.</p>
+                <p>I took a screenshot and sent it to Reese. She told me to log it as “corruption” and not to touch anything else until we had more data. That word stuck in my head. Corruption.</p>
+                <p>When I went back to review the logs, parts of them were… wrong. Lines missing, timestamps out of order, entries that referenced things that never happened. It's like the system itself is lying to me.</p>
+                <p>I've started calling it “the mold” in my notes. It's not a technical term, I know. It just... looks like mold. Spreading, creeping, eating away at the edges of things until they don't hold their shape anymore.</p>
+                <p>I've seen exploits, hacks, griefing, all of it. This isn't that. This feels older. Like it was always there, waiting for us to look the other way.</p>
+                <p>The worst part is the timestamps. They don't just skip; they repeat. I'll see an incident logged on the 14th, then the exact same one on the 14th again, same minute, different outcome. Like two versions of the same moment stacked on top of each other.</p>
+                <p>When I pointed this out, Reese told me it was “a visualization glitch”. But glitches don't leave traces in the raw data. Something is writing over itself, and the mold is where the seams show.</p>
+                <p>I'm going to keep digging. Someone has to.</p>
+                <p> RoseShardz - Jane </p>
+            `
+    },
+
+        "31st Post": {
+            pageTitle: "31st Post",
+            title: "Small Changes",
+            date: "12th February 2016",
+            time: "10:20pm",
+            preview: "Nothing big has happened..",
+            content: `
+                <p>Nothing big has happened. That's the problem. It's all small things. Little shifts that don't add up to anything... except they kind of do.</p>
+                <p>There was an incident last month that I swear I've already resolved. Same experience, same exploit, same user. When I checked the logs, it was marked as “closed” weeks before it even happened. When I asked, I was told I must be misreading the dates.</p>
+                <p>Now, doors that used to be open are locked. Meetings that used to be open to moderators are “invite only”. People I've worked with for years suddenly talk around me instead of to me.</p>
+                <p>Reese says it's “restructuring”. Brighteyes calls it “security updates”. Shedletsky (or should I call him Telemon), has been appearing less and less, so the overall easy tone and enviorment has been very heavy without his smile to ease everyone out. I asked Dusekkar about it, if it had anything to do with the rise of 1x1x1x1 or anything, but he waved me off as if it wasn't really a problem. I know the words sound right, they SHOULD sound right, but... but the way they say them... doesn't. Like they're reading from a script they don't fully believe.</p>
+                <p>I keep catching myself listening more than I talk. Watching how people move in the hallway, who looks at who, who avoids eye contact. Maybe I'm overthinking. Maybe I've spent too long in logs that lie to me.</p>
+                <p>But something is changing. I can feel it in the walls of this place.</p>
+                <p> RoseShardz - Jane </p>
+            `
+    },
+        "32nd Post": {
+            pageTitle: "32nd Post",
+            title: "New Protocols",
+            date: "7th May 2016",
+            time: "11:35pm",
+            preview: "The HQ rolled out new protocols this week..",
+            content: `
+                <p>The HQ rolled out new protocols this week. On paper, they make sense. In practice... they feel like walls.</p>
+                <p>We're not allowed to access certain logs without approval now. Some <i>incident</i> reports go straight to “admin review” before we even see them. When I asked Reese or Builderman why, I was told it's “to reduce noise”.</p>
+                <p>Since when is information noise? Since when is knowing what's happening in our own systems considered extra?</p>
+                <p>Reese told me not to worry, that I'm still trusted, that this is just “standard procedure”. She looked me in the eye when she said it. I wanted to believe her. I'm not sure I did.</p>
+                <p>John noticed me ranting about it at home and asked if I thought something was wrong. I said... I didn't know. I'm not sure. That's the truth. I don't know. And yet, I just know that the air in that building feels heavier than it used to.</p>
+                <p>Maybe I'm paranoid. Maybe I'm finally seeing clearly that He is lying to all of us.</p>
+                <p> RoseShardz - Jane </p>
+            `
+    },
+        "33rd Post": {
+            pageTitle: "33rd Post",
+            title: "The Mold Is Spreading",
+            date: "20th August 2016",
+            time: "2:45am",
+            preview: "I went back to the experiences where I first saw the mold..",
+            content: `
+                <p>I went back to the experiences where I first saw the mold. It's worse. It's everywhere now if you know where to look.</p>
+                <p>Textures flickering in places they shouldn't. NPCs repeating the same line over and over like a broken record. Logs that cut off mid-sentence, like someone reached in and tore the rest out.</p>
+                <p>I've started calling them “loops” in my notes. Not because I think time is literally repeating, but because that's what the data looks like. Events that should be linear fold back on themselves. Outcomes change while the setup stays the same.</p>
+                <p>The mold grows where the loops don't line up. It's like the system is trying to stitch two different versions of reality together and failing.</p>
+                <p>I tried to bring this up in a meeting. I used careful words, didn't accuse anyone, just presented what I'd seen. The room got very quiet. Reese said they'd “look into it”. Brighteyes didn't say anything at all. And Builderman... he kept looking at me like I knew too much.</p>
+                <p>Later that day, my access to some of the deeper logs got restricted. “Temporary”, they said. “Until we audit the system”. No one told me why I was the one being audited.</p>
+                <p>I know how this sounds. Like I'm turning every closed door into a conspiracy. But I've spent <strong>years</strong> inside these systems. I <strong>know</strong> what broken looks like. And this isn't it.</p>
+                <p>This is being hidden. I will get to the bottom of this.</p>
+                <p> RoseShardz - Jane </p>
+            `
+    },
+        "34th Post": {
+            pageTitle: "34th Post",
+            title: "John Didn't Come Home",
+            date: "28th September 2016",
+            time: "1:10am",
+            preview: "John didn't come home last night..",
+            content: `
+                <p>John didn't come home last night. He said he'd be late, but not... this late. His phone goes straight to voicemail.</p>
+                <p>I called the HQ. The person who answered said he wasn't there. That he left earlier in the day. But no one knows where he went after that. No one seems worried either, which is... strange. Feels like they're lying to me somehow. As if they knew more than what they told me.</p>
+                <p>There's one thing I haven't written down. The last time I saw him, he was talking about “servers” and “instances” like they were real places. He said if something went wrong, he might “wake up somewhere else” and I wouldn't remember. I thought he was being poetic. Now I'm not sure.</p>
+                <p>I keep telling myself there's a simple explanation. He got caught up in work. He went for a walk. He's avoiding a conversation. But my head keeps going to places I don't want it to.</p>
+                <p>Reese messaged me asking if I was okay. I said “John is missing”. She said “I'm sure he's fine, he just needs space”. How does <strong>she</strong> know what he needs better than <strong>I</strong> do?</p>
+                <p>I'm sitting at the kitchen table with his coffee mug still where he left it. It feels stupid to be scared over a few hours. It also feels like the floor under me is tilting and I'm the only one who notices.</p>
+                <p> RoseShardz - Jane </p>
+            `
+    },
+        "35th Post": {
+            pageTitle: "35th Post",
+            title: "They Keep Saying He's Fine",
+            date: "15th October 2016",
+            time: "11:50pm",
+            preview: "Everyone keeps telling me John is fine..",
+            content: `
+                <p>Everyone keeps telling me John is fine. That he needed a break. That I should “give him time”. No one will tell me where he is.</p>
+                <p>I've asked Reese. I've asked Brighteyes. I've asked Dusekkar and MrDoombringer, even people who barely talk to me normally. Same answer, different words. “He's okay.” “He's taking space.” “You're overthinking.”</p>
+                <p>Maybe I am. Maybe I'm not. I don't know anymore. All I know is that my husband is gone and the people who claim to care about us are treating this like a minor scheduling issue.</p>
+                <p>When I describe the John I know, people talk about him like he's a different person. Same name, same face, but... "normal". Like the version they remember never saw the things we saw. Never asked the questions we asked.</p>
+                <p>It's like I'm stuck in a server where the bad timeline happened, and everyone else got moved to a clean one.</p>
+                <p>I went to his desk at the HQ. It was... clean. Too clean. Like someone had gone through it and removed anything that might mean something. I stood there for a long time and felt like an intruder in my own life. The photo of him and Amber... that I took it home with me. If they want to take things from me, they're not taking the only photo I have of them together.</p>
+                <p>At night I keep listening for the door to open. For his keys. His footsteps. Anything. But the house stays quiet and I stay awake and the stories in my head get worse.</p>
+                <p>I'm not stupid. I know when people are lying to me. I just don't know why. I wish I could know why.</p>
+                <p> RoseShardz - Jane </p>
+            `
+    },
+        "36th Post": {
+            pageTitle: "36th Post",
+            title: "I'm Not Stupid",
+            date: "9th December 2016",
+            time: "12:40am",
+            preview: "I'm writing this because I need to say it out loud somewhere they can't edit my words..",
+            content: `
+                <p>I'm writing this because I need to say it out loud somewhere they can't edit my words. I'm not stupid. I know what's happening.</p>
+                <p>John is gone. Not “on break”. Not “needing space”. Gone. And everyone at HQ is acting like this is normal. Like I'm the problem for not accepting their script.</p>
+                <p>Reese keeps telling me to “focus on work”. Brighteyes sends me messages that sound like they were written by a committee. “We care.” “We're here for you.” “Take your time.” Builderman of all people keeps saying it's all in my head. None of them answer the question I'm actually asking.</p>
+                <p>The mold is still there. The corruption is still spreading. And now the one person who might have believed me without me having to explain every detail is… unavailable. Convenient, isn't it? :)</p>
+                <p>I keep going to shifts. I keep filing reports. I keep pretending I'm fine while the walls close in. But I see it. All of it. The locked doors, the missing logs, the way people look away when I say his name.</p>
+                <p>They think if they keep saying “you're tired” enough times, I'll start believing it. I'm not tired. I'm awake. More awake than I've ever been.</p>
+                <p> RoseShardz - Jane </p>
+            `
+    },
+        "37th Post": {
+            pageTitle: "37th Post",
+            title: "I Quit",
+            date: "6th January 2017",
+            time: "11:40pm",
+            preview: "I left HQ in December..",
+            content: `
+                <p>I left HQ in December. I didn't make a big announcement. I just... stopped going. This is me making it official, I guess.</p>
+                <p>Reese called it “taking a break”. Brighteyes said they'd “keep my desk open”. The way they said it made it sound like I was a stray dog they were pretending not to feed anymore.</p>
+                <p>I told them I was done. That I wasn't coming back. Reese didn't argue. She just looked at me like she was disappointed I'd figure it out.</p>
+                <p>They kept telling me I needed rest. That I was “seeing things”. That the mold was just a bug, the loops were just glitches, John just needed space. But you can't gaslight someone who's already watching the walls breathe.</p>
+                <p>I'm not their moderator anymore. I'm not the one who sniffs corruption in the code and won't shut up about it. I'm just Jane now. Or whatever's left of her.</p>
+                <p> RoseShardz - Jane </p>
+            `
+    },
+        "38th Post": {
+            pageTitle: "38th Post",
+            title: "It's In The House Now",
+            date: "28th January 2017",
+            time: "3:15am",
+            preview: "I thought the mold was just in the experiences..",
+            content: `
+                <p>I thought the mold was just in the experiences. Just in the logs. Just at HQ. I was wrong. It's here now.</p>
+                <p>It started in the corner of Amber's room. A dark patch on the wall that looked like water damage. Except there's no leak. And it doesn't smell like wet plaster. It smells like... like burnt circuits and forgotten instances.</p>
+                <p>I tried scrubbing it. It spread. Not outward, but deeper. Like the more I touched it, the more it realized I was there.</p>
+                <p>John's things are still in the closet. His collared shirt, his vest, his keys, the mug he left on the table that night. I keep waiting for the mold to touch them and it hasn't. Not yet. It's like it's waiting for me to give up before it takes the rest.</p>
+                <p>People around the neighbourhood are calling me “mold girl” now. I heard it when two neighbours were talking eariler when I picked up my mail. Like it's a joke. Like I'm the crazy one for noticing the thing that's eating the world from the inside.</p>
+                <p>Maybe I am. But if I'm moldy, then this whole place is a petri dish.</p>
+                <p> RoseShardz - Jane </p>
+            `
+    },
+        "39th Post": {
+            pageTitle: "39th Post",
+            title: "Rumours",
+            date: "10th February 2017",
+            time: "1:05am",
+            preview: "I shouldn't be reading the forums..",
+            content: `
+                <p>I shouldn't be reading the forums. I know I shouldn't. But I can't stop. I dug too deep and now everyone is talking about something, and no one will say it out loud.</p>
+                <p>There are threads about “the takeover”. About a Robloxian who will "hack" all of Robloxia. About someone who vanished and now will up somewhere else, changed. This robloxian's name has been said to be my husband, John Doe.</p>
+                <p>One posts said the HQ isn't just a company. It's a “gate”. That the mold isn't a bug, it's a side effect of something much bigger. That people like me and John... we're not employees. We're variables.</p>
+                <p>I keep thinking about what John said that night. About “servers” and “instances”. About waking up somewhere else. I thought he was being poetic. Now I really think he was trying to warn me.</p>
+                <p>I haven't been sleeping. The mold in the house is bigger. It hums sometimes. I know that doesn't make sense. It hums. Like it's running code I can't see.</p>
+                <p>I need answers. Even if they lie to me again, I need to hear the lies in person.</p>
+                <p> RoseShardz - Jane </p>
+            `
+    },
+        "40th Post": {
+            pageTitle: "40th Post",
+            title: "Bad Habits",
+            date: "2nd March 2017",
+            time: "4:40am",
+            preview: "I know I'm not okay..",
+            content: `
+                <p>I know I'm not okay. I know the things I'm doing aren't healthy. But I can't stop. Not until I know.</p>
+                <p>I haven't been eating properly. I forget to drink water. I fell back into smoking like I used to before John and Amber. I often just sit in her room for hours and stare at the mold like it's going to talk to me. Sometimes I swear it moves when I blink.</p>
+                <p>I've been going back to HQ at night. Not inside, just...lurking outside. Walking around the building, watching the lights. There are windows that never turn off. I think that's where they keep the servers. Or the loops. Or whatever they're calling it this week.</p>
+                <p>I keep seeing John's face in my head. Not the way he was when he disappeared. The way he was before. Laughing at Shedletsky's jokes. Blushing when I teased him. How sweet he sounded calling me "My Rose". Our vows. His teary eyed face when he first saw Amber or him talking to her like she could understand every word. The way he held me and never left my side when I hit a place where I couldn't react. His lips...</p>
+                <p>I don't know if he's alive. I don't know if “alive” even means the same thing anymore. But... but I know he's somewhere in that building. Or in whatever that building is connected to.</p>
+                <p>I'm going back. One last time. If they lie to me again, I'll know. I'll know by the way they look at me.</p>
+                <p> RoseShardz - Jane </p>
+            `
+    },
+        "41st Post": {
+            pageTitle: "41st Post",
+            title: "I found him.",
+            date: "10th March 2017",
+            time: "11:58pm",
+            preview: "i went back tonight.",
+            content: `
+                <p>i went back tonight. i told myself it was the last time. i just needed to ask. one more time. please.</p>
+                <p>i got in through the side door. the code hasn't changed. they never change the code. like they knew i'd come back. like they were waiting.</p>
+                <p>i heard voices. deep in the building. where they keep the restricted servers. i followed the sound. the mold was everywhere there. thicker than in my house. pulsing. like it was alive.</p>
+                <p>then i saw them.</p>
+                <p>Builderman. and... John.</p>
+                <p>John was... he had it on him. the corruption. the mold. it was crawling over his skin like it was part of him. his eyes were open but he wasn't... he wasn't there. not really.</p>
+                <p>Builderman was touching him. talking to him like he was a thing. like he was a project. he said “subject is stable. loop integration at 87 percent”. like John wasn't a person. like he never was.</p>
+                <p>i couldn't breathe. i couldn't move. i just stood there and watched the place i worked. the people i trusted. the man i married. all of it. all of it wrong.</p>
+                <p>they knew i was there. i think they wanted me to see. i think this was the point all along.</p>
+                <p>i ran. i don't remember running. i just remember waking up at home with my hands shaking so bad i could barely type this.</p>
+                <p>i found him. i found him and i lost everything else.</p>
+                <p> RoseShardz - Jane </p>
+            `
+    },
+        "42nd Post": {
+            pageTitle: "42nd Post",
+            title: "Gone",
+            date: "18th March 2017",
+            time: "11:42pm",
+            preview: "I went back again..",
+            content: `
+                <p>I went back again. I told myself I wouldn't, but my feet didn't listen. The city was too quiet, the sky too bright, like the world had exhaled and forgotten to inhale again. When I turned the corner where HQ should have been, there was nothing. Just smoke. Smoke in an empty lot like it had been a fire and compleatly erased everything that existed, like every shift I ever worked, every report I ever filed, every secret I ever uncovered had been scrubbed out with an eraser the size of a god. When I searched the news, it showed The HQ still existed, like the world was gaslighing what I had seen with my own eyes, photographed and documented.</p>
+                <p>The mold in my house is screaming. I know that's not a word people use for mold, but I don't care. It's vibrating through the walls, through the floor, through Amber's room, like it's trying to reach something that's no longer there. The news says there was an “incident” downtown, a gas leak, a structural failure, anything but the truth. They're already rewriting it. Already looping it into a version where The HQ was always just an office, just a company, just a normal place that had a normal accident. But I remember the servers that hummed like they were alive. I remember Builderman's voice saying “loop integration”. I remember John's eyes open and empty and full of code.</p>
+                <p>I don't know what I am anymore. I don't know if I'm still inside the same world as everyone else or if I slipped out and no one noticed. All I know is that the place that made this possible is gone, and the people who did it are still here, walking around in skin that fits too well, pretending they didn't build a machine that eats people and calls it a game. If this is the last post I make, then let it be this: I saw it. I saw all of it. And I'm not forgetting. Not this time. Not ever.</p>
+                <p> - Jane Doe </p>
+            `
+    },
+        "Post-Realm": {
+            pageTitle: "Post-Realm",
+            title: "459th Day in This Realm",
+            date: " ",
+            time: " ",
+            preview: "I finally got access to this blog again..",
+            content: `
+                <p>I finally got access to this blog again. I don't know what day it is. I don't think there are days here in the way there used to be. There are rounds, deaths, returns, the lights in the lobby changing sometimes, and then the same thing all over again. So I'm calling this the 459th day in this realm because that's the number of days that have passed since I arrived, even though I'm not sure what I was counting.</p>
+                <p>I remember how I got here now. I had been working at my desk, writing reports about the corruption until I couldn't keep my eyes open anymore. I must have fallen asleep over the paperwork. In the dream, John and I were together again. We were smiling. It was our wedding day, and for a little while everything was exactly as it should have been. The kind of happiness that feels too perfect to question.</p>
+                <p>Then the dream changed. The atmosphere went red, the air became hot, and John held me close, except it was't John holding me. It was something wearing the shape of what I had lost. My dress was ruined, the room was gone, and everything disappeared so quickly that it felt like I was losing air in my lungs. I woke up somewhere else, in my study, with my files missing and the walls opening into places I had never seen before.</p>
+                <p> I woke up afterwards. My eyes wide, breathing heavy, hands shaking. Looking around, I was stuck in a sort of place where everything didn't makes sense. A place of broken rigs, models, assets, scripts and other objects that were left to rot away, forever forgotten. I started documenting this to best of my ability.</p>
+                <p>That was when I met it. Him. The thing that watches this place and keeps all of us moving in circles. The Spectre. He told me I was dreaming. He told me none of this was real and that he could bring John back to me if I agreed to help him. I said yes. I said I would do anything. I was grieving, exhausted, and stupid enough to believe that a promise could still be a promise when it came from something like that.</p>
+                <p>My study came with me, but my reports didn't. They were scattered through the different places we're sent to, hidden. I tried to collect them. I thought if I could put everything back together, I might understand where I was and how to leave.</p>
+                <p>Then I saw John.</p>
+                <p>He recognised me. Even with the way Builderman left him in, for one moment, he really recognised me. We kissed, and I thought I had finally found the one thing this place couldn't take from me. I was wrong. That's how I found out The Spectre controls this realm. It took him away, and when he came back, he looked at me like I was a stranger. Filth you rub off your shoe in the middle of the street.</p>
+                <p>The next round, he killed me.</p>
+                <p>I don't know how long I stayed alone after that. Long enough for the lobby to feel safer than the people in it. Long enough to stop searching for my files. Long enough to understand that the thing in charge doesn't need to keep me locked in a room. It only has to keep giving me pieces of John and taking them away again.</p>
+                <p>I'm sorry. I don't want to write about him anymore. Not tonight. It still hurts, and I'm tired of pretending that dying makes it hurt less.</p>
+                <p> VeilOfSplinters - Jane Doe </p>
+            `
+    }
+        
 
 };
 
