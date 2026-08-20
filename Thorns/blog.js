@@ -295,8 +295,26 @@ const blog = {
                 <p> RoseShardz - Jane </p>
             `
     },
+
         "20th post":{
             pageTitle: "20th Post",
+            title: "A ####### WEEK",
+            date: "8th April 2012",
+            time: "8:17pm",
+            preview: "I AM SO ANGRY!",
+            content: `
+                <p>I AM SO ANGRY! I'm so pissed off. I am forced to stay behind instead of helping this internal attack just because I'm pregnant.</p>
+                <p>On April 1st some kids decided it would be funny to pull a prank on the HQ and basically turn everything upside down.</p>
+                <p>One of them made changes on the banners and billbords to say some obscene things. Another decided it would be funny to flood the forums with horrible talks and made illegal trades for a limited domino crown.</p>
+                <p>The the one that is making me worried the most since he single handly crashed the entire Robloxian economy. Somehow he got access to changing prices of items and uploaded new ones like a very... weird face... ew.</p>
+                <p>We were on lockdown until the 3rd only but holy #### am I angry at this. So much paperwork and things to be reverted back to normal.</p>
+                <p>I wonder if I can ask MrDoombringer to see the culprits. But rumour has it, one of them escaped.</p>
+                <p> RoseShardz - Jane </p>
+            `
+    },
+
+        "21st post":{
+            pageTitle: "21st Post",
             title: "Halfway There",
             date: "10th May 2012",
             time: "9:55pm",
@@ -311,9 +329,11 @@ const blog = {
                 <p>Halfway there. That's what I keep telling myself. -w-</p>
                 <p> RoseShardz - Jane </p>
             `
-    },
-        "21st Post": {
-            pageTitle: "21st Post",
+    },      
+        
+
+        "22nd Post": {
+            pageTitle: "22nd Post",
             title: "Amber",
             date: "5th June 2012",
             time: "11:20pm",
@@ -328,8 +348,8 @@ const blog = {
                 <p> RoseShardz - Jane </p>
             `
     },
-        "22nd Post": {
-            pageTitle: "22nd Post",
+        "23rd Post": {
+            pageTitle: "23rd Post",
             title: "One Month In",
             date: "10th July 2012",
             time: "3:15am",
@@ -343,8 +363,8 @@ const blog = {
                 <p> RoseShardz - Jane </p>
             `
     },
-        "23rd Post": {
-            pageTitle: "23rd Post",
+        "24th Post": {
+            pageTitle: "24th Post",
             title: "Amber, Three Months",
             date: "8th September 2012",
             time: "10:40pm",
@@ -358,8 +378,8 @@ const blog = {
                 <p> RoseShardz - Jane </p>
             `
     },
-        "24th Post": {
-            pageTitle: "24th Post",
+        "25th Post": {
+            pageTitle: "25th Post",
             title: "About Amber",
             date: "14th February 2013",
             time: "1:05am",
@@ -376,8 +396,8 @@ const blog = {
                 <p> - John Doe</p>
             `
     },
-        "25th Post": {
-            pageTitle: "25th Post",
+        "26th Post": {
+            pageTitle: "26th Post",
             title: "Back at My Desk",
             date: "14th June 2013",
             time: "9:30pm",
@@ -393,8 +413,8 @@ const blog = {
                 <p> RoseShardz - Jane </p>
             `
     },
-        "26th Post": {
-            pageTitle: "26th Post",
+        "27th Post": {
+            pageTitle: "27th Post",
             title: "Promotion Paperwork",
             date: "3rd November 2013",
             time: "10:05pm",
@@ -409,8 +429,8 @@ const blog = {
                 <p> RoseShardz - Jane </p>
             `
     },
-        "27th Post": {
-            pageTitle: "27th Post",
+        "28th Post": {
+            pageTitle: "28th Post",
             title: "She's Working Late Again",
             date: "19th March 2014",
             time: "1:15am",
@@ -424,8 +444,23 @@ const blog = {
                 <p> - John </p>
             `
     },
-        "28th Post": {
-            pageTitle: "28th Post",
+        "29th Post": {
+            pageTitle: "29th Post",
+            title: "C00lkidd",
+            date: "15th May 2014",
+            time: "2:07 am",
+            preview: "I am so tired..",
+            content: `
+                <p>I am so tired. I have 0 idea who this guy is or what he's doing but his exploits are being used to terrorise Builder Brother's Pizzaria under the colective "Team C00lkidd".</p>
+                <p>It's sending alarms everywhere in the HQ and I'm so tired of hearing that emergency siren play. I'm losing my darn mind over here.</p>
+                <p>His name is 007n7 and I have no idea how but as information comes in, the GUI he uses seems to be built by him. At this time, we're unaware of what script exploits he has but from what we see it's tilting the experience sideways and changing textures. Somehow this is affecting other [REDACTED by the Roblox HQ].</p>
+                <p>I hope this gets resolved soon. I'm doing a double shift and if I leave, I'm on standby call.</p>
+                <p>I just hope John's okay. He does seem to be worried about me and how much I've been working lately. I'm unsure why. I'm less stressed, less anxious.. less empty. And I haven't gotten back to smoking. I quit for real this time.</p>
+                <p> - John </p>
+            `
+    },
+        "30th Post": {
+            pageTitle: "30th Post",
             title: "Anniversary",
             date: "5th June 2014",
             time: "11:50pm",
@@ -440,8 +475,8 @@ const blog = {
                 <p> - John </p>
             `
     },
-        "29th Post": {
-            pageTitle: "29th Post",
+        "31st Post": {
+            pageTitle: "31st Post",
             title: "Forced Vacation",
             date: "9th April 2015",
             time: "8:40pm",
@@ -456,8 +491,8 @@ const blog = {
                 <p> RoseShardz - Jane </p>
             `
     },
-        "30th Post": {
-            pageTitle: "30th Post",
+        "32nd Post": {
+            pageTitle: "32nd Post",
             title: "Something in the Logs",
             date: "22nd July 2015",
             time: "2:10am",
@@ -476,8 +511,8 @@ const blog = {
             `
     },
 
-        "31st Post": {
-            pageTitle: "31st Post",
+        "33rd Post": {
+            pageTitle: "33rd Post",
             title: "Small Changes",
             date: "12th February 2016",
             time: "10:20pm",
@@ -492,8 +527,8 @@ const blog = {
                 <p> RoseShardz - Jane </p>
             `
     },
-        "32nd Post": {
-            pageTitle: "32nd Post",
+        "34th Post": {
+            pageTitle: "34th Post",
             title: "New Protocols",
             date: "7th May 2016",
             time: "11:35pm",
@@ -508,8 +543,8 @@ const blog = {
                 <p> RoseShardz - Jane </p>
             `
     },
-        "33rd Post": {
-            pageTitle: "33rd Post",
+        "35th Post": {
+            pageTitle: "35th Post",
             title: "The Mold Is Spreading",
             date: "20th August 2016",
             time: "2:45am",
@@ -526,8 +561,8 @@ const blog = {
                 <p> RoseShardz - Jane </p>
             `
     },
-        "34th Post": {
-            pageTitle: "34th Post",
+        "36th Post": {
+            pageTitle: "36th Post",
             title: "John Didn't Come Home",
             date: "28th September 2016",
             time: "1:10am",
@@ -542,8 +577,8 @@ const blog = {
                 <p> RoseShardz - Jane </p>
             `
     },
-        "35th Post": {
-            pageTitle: "35th Post",
+        "37th Post": {
+            pageTitle: "37th Post",
             title: "They Keep Saying He's Fine",
             date: "15th October 2016",
             time: "11:50pm",
@@ -560,8 +595,8 @@ const blog = {
                 <p> RoseShardz - Jane </p>
             `
     },
-        "36th Post": {
-            pageTitle: "36th Post",
+        "38th Post": {
+            pageTitle: "38th Post",
             title: "I'm Not Stupid",
             date: "9th December 2016",
             time: "12:40am",
@@ -576,8 +611,8 @@ const blog = {
                 <p> RoseShardz - Jane </p>
             `
     },
-        "37th Post": {
-            pageTitle: "37th Post",
+        "39th Post": {
+            pageTitle: "39th Post",
             title: "I Quit",
             date: "6th January 2017",
             time: "11:40pm",
@@ -591,8 +626,8 @@ const blog = {
                 <p> RoseShardz - Jane </p>
             `
     },
-        "38th Post": {
-            pageTitle: "38th Post",
+        "40th Post": {
+            pageTitle: "40th Post",
             title: "It's In The House Now",
             date: "28th January 2017",
             time: "3:15am",
@@ -607,8 +642,8 @@ const blog = {
                 <p> RoseShardz - Jane </p>
             `
     },
-        "39th Post": {
-            pageTitle: "39th Post",
+        "41st Post": {
+            pageTitle: "41st Post",
             title: "Rumours",
             date: "10th February 2017",
             time: "1:05am",
@@ -623,8 +658,8 @@ const blog = {
                 <p> RoseShardz - Jane </p>
             `
     },
-        "40th Post": {
-            pageTitle: "40th Post",
+        "42nd Post": {
+            pageTitle: "42nd Post",
             title: "Bad Habits",
             date: "2nd March 2017",
             time: "4:40am",
@@ -639,8 +674,8 @@ const blog = {
                 <p> RoseShardz - Jane </p>
             `
     },
-        "41st Post": {
-            pageTitle: "41st Post",
+        "43rd Post": {
+            pageTitle: "43rd Post",
             title: "I found him.",
             date: "10th March 2017",
             time: "11:58pm",
@@ -660,8 +695,8 @@ const blog = {
                 <p> RoseShardz - Jane </p>
             `
     },
-        "42nd Post": {
-            pageTitle: "42nd Post",
+        "44th Post": {
+            pageTitle: "44th Post",
             title: "Gone",
             date: "18th March 2017",
             time: "11:42pm",
