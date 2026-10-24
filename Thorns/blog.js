@@ -456,7 +456,7 @@ const blog = {
                 <p>His name is 007n7 and I have no idea how but as information comes in, the GUI he uses seems to be built by him. At this time, we're unaware of what script exploits he has but from what we see it's tilting the experience sideways and changing textures. Somehow this is affecting other [REDACTED by the Roblox HQ].</p>
                 <p>I hope this gets resolved soon. I'm doing a double shift and if I leave, I'm on standby call.</p>
                 <p>I just hope John's okay. He does seem to be worried about me and how much I've been working lately. I'm unsure why. I'm less stressed, less anxious.. less empty. And I haven't gotten back to smoking. I quit for real this time.</p>
-                <p> - John </p>
+                <p> RoseShardz </p>
             `
     },
         "30th Post": {
@@ -650,7 +650,7 @@ const blog = {
             preview: "I shouldn't be reading the forums..",
             content: `
                 <p>I shouldn't be reading the forums. I know I shouldn't. But I can't stop. I dug too deep and now everyone is talking about something, and no one will say it out loud.</p>
-                <p>There are threads about “the takeover”. About a Robloxian who will "hack" all of Robloxia. About someone who vanished and now will up somewhere else, changed. This robloxian's name has been said to be my husband, John Doe.</p>
+                <p>There are threads about “the takeover”. About a Robloxian who will "hack" all of Robloxia. About someone who vanished and now will appear somewhere else, changed. This robloxian's name has been said to be my husband, John Doe.</p>
                 <p>One posts said the HQ isn't just a company. It's a “gate”. That the mold isn't a bug, it's a side effect of something much bigger. That people like me and John... we're not employees. We're variables.</p>
                 <p>I keep thinking about what John said that night. About “servers” and “instances”. About waking up somewhere else. I thought he was being poetic. Now I really think he was trying to warn me.</p>
                 <p>I haven't been sleeping. The mold in the house is bigger. It hums sometimes. I know that doesn't make sense. It hums. Like it's running code I can't see.</p>
@@ -667,8 +667,8 @@ const blog = {
             content: `
                 <p>I know I'm not okay. I know the things I'm doing aren't healthy. But I can't stop. Not until I know.</p>
                 <p>I haven't been eating properly. I forget to drink water. I fell back into smoking like I used to before John and Amber. I often just sit in her room for hours and stare at the mold like it's going to talk to me. Sometimes I swear it moves when I blink.</p>
-                <p>I've been going back to HQ at night. Not inside, just...lurking outside. Walking around the building, watching the lights. There are windows that never turn off. I think that's where they keep the servers. Or the loops. Or whatever they're calling it this week.</p>
-                <p>I keep seeing John's face in my head. Not the way he was when he disappeared. The way he was before. Laughing at Shedletsky's jokes. Blushing when I teased him. How sweet he sounded calling me "My Rose". Our vows. His teary eyed face when he first saw Amber or him talking to her like she could understand every word. The way he held me and never left my side when I hit a place where I couldn't react. His lips...</p>
+                <p>I've been going back to HQ at night. Not inside, just...lurking outside. Walking around the building, watching the lights. There are windows that never turn off. I think that's where they kept the servers. Or whatever they're calling it this week.</p>
+                <p>I keep seeing John's face in my head. Not the way he was when he disappeared. The way he was before. Laughing at Shedletsky's jokes. Blushing when I teased him. How sweet he sounded calling me "My Rose". Our vows. His teary eyed face when he first saw Amber or him talking to her like she could understand every word. The way he held me and never left my side when I hit a place where I couldn't react. How he made me laugh and feel like I wasn't a burden. His lips...</p>
                 <p>I don't know if he's alive. I don't know if “alive” even means the same thing anymore. But... but I know he's somewhere in that building. Or in whatever that building is connected to.</p>
                 <p>I'm going back. One last time. If they lie to me again, I'll know. I'll know by the way they look at me.</p>
                 <p> RoseShardz - Jane </p>
@@ -681,30 +681,34 @@ const blog = {
             time: "11:58pm",
             preview: "i went back tonight.",
             content: `
-                <p>i went back tonight. i told myself it was the last time. i just needed to ask. one more time. please.</p>
-                <p>i got in through the side door. the code hasn't changed. they never change the code. like they knew i'd come back. like they were waiting.</p>
-                <p>i heard voices. deep in the building. where they keep the restricted servers. i followed the sound. the mold was everywhere there. thicker than in my house. pulsing. like it was alive.</p>
-                <p>then i saw them.</p>
-                <p>Builderman. and... John.</p>
-                <p>John was... he had it on him. the corruption. the mold. it was crawling over his skin like it was part of him. his eyes were open but he wasn't... he wasn't there. not really.</p>
-                <p>Builderman was touching him. talking to him like he was a thing. like he was a project. he said “subject is stable. loop integration at 87 percent”. like John wasn't a person. like he never was.</p>
-                <p>i couldn't breathe. i couldn't move. i just stood there and watched the place i worked. the people i trusted. the man i married. all of it. all of it wrong.</p>
-                <p>they knew i was there. i think they wanted me to see. i think this was the point all along.</p>
-                <p>i ran. i don't remember running. i just remember waking up at home with my hands shaking so bad i could barely type this.</p>
-                <p>i found him. i found him and i lost everything else.</p>
+                <p>I went back tonight. i told myself it was the last time. I just needed to ask. One more time. Please.</p>
+                <p>I went in through the side door. The emergency code hasn't changed as expected.. they never change the code. It's a hazzard that was warned by me and ignored.</p>
+                <p>I heard employees talking, they were deep in the building. Where they keep the restricted servers, I watched through the tiny door window. This "thing" was everywhere in there, thicker than in my house. It was alive.</p>
+                <p>Then i saw him.</p>
+                <p>John. MY John. My husband. My dear husband, John Doe.</p>
+                <p>John was... it was on him. The mold. It was crawling over his skin like it was part of him. One of his eyes was covered by this red thing... he was contained and looked unconcious.</p>
+                <p>Someone was watching the vitals. Talking about him like he was a thing to another co-worker. Like he was a project. As if John wasn't an ordinary person.</p>
+                <p>My breath had stopped. I couldn't move. I just stood there. Motionless.. the people I trusted. The man I married.</p>
+                <p>A noise from the end of the hallway snapped me out. Builderman.</p>
+                <p>I ran. I don't recall the way I made.. I just remember waking up at home with my hands shaking, my head spinning, the anger I felt.</p>
+                <p>This thing is keeping him alive? How. I don't know but I will find out.</p>
                 <p> RoseShardz - Jane </p>
             `
     },
         "44th Post": {
             pageTitle: "44th Post",
-            title: "Gone",
-            date: "18th March 2017",
+            title: "Thank You",
+            date: "June 22nd 2017",
             time: "11:42pm",
             preview: "I went back again..",
             content: `
-                <p>I went back again. I told myself I wouldn't, but my feet didn't listen. The city was too quiet, the sky too bright, like the world had exhaled and forgotten to inhale again. When I turned the corner where HQ should have been, there was nothing. Just smoke. Smoke in an empty lot like it had been a fire and compleatly erased everything that existed, like every shift I ever worked, every report I ever filed, every secret I ever uncovered had been scrubbed out with an eraser the size of a god. When I searched the news, it showed The HQ still existed, like the world was gaslighing what I had seen with my own eyes, photographed and documented.</p>
-                <p>The mold in my house is screaming. I know that's not a word people use for mold, but I don't care. It's vibrating through the walls, through the floor, through Amber's room, like it's trying to reach something that's no longer there. The news says there was an “incident” downtown, a gas leak, a structural failure, anything but the truth. They're already rewriting it. Already looping it into a version where The HQ was always just an office, just a company, just a normal place that had a normal accident. But I remember the servers that hummed like they were alive. I remember Builderman's voice saying “loop integration”. I remember John's eyes open and empty and full of code.</p>
-                <p>I don't know what I am anymore. I don't know if I'm still inside the same world as everyone else or if I slipped out and no one noticed. All I know is that the place that made this possible is gone, and the people who did it are still here, walking around in skin that fits too well, pretending they didn't build a machine that eats people and calls it a game. If this is the last post I make, then let it be this: I saw it. I saw all of it. And I'm not forgetting. Not this time. Not ever.</p>
+                <p>On the 18th March, I went back again. I told myself I wouldn't, but my feet didn't listen. The city was too quiet, the sunset sky too bright. As if the world had exhaled and forgotten to inhale again. I started hearing sirens. The sound of the HQ alarms blaring loudly in the street. The further I went down, the darker and redder everything got. There he was. John Doe. As the forums promised, John was now atacking the HQ. Whoever wrote those things was right. How could've they known?</p>
+                <p>That "thing" was clearly alive and feeding on John as if he was a host. It pulsated out his skin. John's body looked wrong, his arm was consumed by this thing, his hand elongated as if it was a claw, his back deformed enough that his bones protruded through his body. His face. That thing still in his eye, it looked directly at me when John was far from me, showing me his side. The body turned around, it did not seem human. I wanted to run away, to escape. This isn't my husband.</p>
+                <p> It moved after me, my body moved on it's own towards him. It ignored every scream for help, every cry, every siren, every pulsating sound the enviorment made. I stopped when he was right in front of me. His expression was one of regret. My love.. didn't want this. I touched his face and he melted on my hand as he did before counteless times.. the "claw" held my hand. His unaffected eye stared at me. As if it asked me to help... as if he was in pain...</p>
+                <p>Didn't last long as the upper team of Admins came in to help take John down. Shedletsky, Brighteyes, Dusekkar, Tarabyte, MrDoombringer, Clockwork, Stickmasterluke and... Builderman.</p>
+                <p> I was forced to flea the place, I did not want any of them to see me.</p>
+                <p> WIP </p>
+                <p>This is the last post I make, if you're reading this, I am dead. I want you to know: I saw it. I saw all of it. And I'm not forgetting. Not this time. Not ever.</p>
                 <p> - Jane Doe </p>
             `
     },
