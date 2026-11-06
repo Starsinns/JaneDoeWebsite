@@ -561,87 +561,8 @@ const blog = {
                 <p> RoseShardz - Jane </p>
             `
     },
-        "36th Post": {
-            pageTitle: "36th Post",
-            title: "John Didn't Come Home",
-            date: "28th September 2016",
-            time: "1:10am",
-            preview: "John didn't come home last night..",
-            content: `
-                <p>John didn't come home last night. He said he'd be late, but not... this late. His phone goes straight to voicemail.</p>
-                <p>I called the HQ. The person who answered said he wasn't there. That he left earlier in the day. But no one knows where he went after that. No one seems worried either, which is... strange. Feels like they're lying to me somehow. As if they knew more than what they told me.</p>
-                <p>There's one thing I haven't written down. The last time I saw him, he was talking about “servers” and “instances” like they were real places. He said if something went wrong, he might “wake up somewhere else” and I wouldn't remember. I thought he was being poetic. Now I'm not sure.</p>
-                <p>I keep telling myself there's a simple explanation. He got caught up in work. He went for a walk. He's avoiding a conversation. But my head keeps going to places I don't want it to.</p>
-                <p>Reese messaged me asking if I was okay. I said “John is missing”. She said “I'm sure he's fine, he just needs space”. How does <strong>she</strong> know what he needs better than <strong>I</strong> do?</p>
-                <p>I'm sitting at the kitchen table with his coffee mug still where he left it. It feels stupid to be scared over a few hours. It also feels like the floor under me is tilting and I'm the only one who notices.</p>
-                <p> RoseShardz - Jane </p>
-            `
-    },
-        "37th Post": {
-            pageTitle: "37th Post",
-            title: "They Keep Saying He's Fine",
-            date: "15th October 2016",
-            time: "11:50pm",
-            preview: "Everyone keeps telling me John is fine..",
-            content: `
-                <p>Everyone keeps telling me John is fine. That he needed a break. That I should “give him time”. No one will tell me where he is.</p>
-                <p>I've asked Reese. I've asked Brighteyes. I've asked Dusekkar and MrDoombringer, even people who barely talk to me normally. Same answer, different words. “He's okay.” “He's taking space.” “You're overthinking.”</p>
-                <p>Maybe I am. Maybe I'm not. I don't know anymore. All I know is that my husband is gone and the people who claim to care about us are treating this like a minor scheduling issue.</p>
-                <p>When I describe the John I know, people talk about him like he's a different person. Same name, same face, but... "normal". Like the version they remember never saw the things we saw. Never asked the questions we asked.</p>
-                <p>It's like I'm stuck in a server where the bad timeline happened, and everyone else got moved to a clean one.</p>
-                <p>I went to his desk at the HQ. It was... clean. Too clean. Like someone had gone through it and removed anything that might mean something. I stood there for a long time and felt like an intruder in my own life. The photo of him and Amber... that I took it home with me. If they want to take things from me, they're not taking the only photo I have of them together.</p>
-                <p>At night I keep listening for the door to open. For his keys. His footsteps. Anything. But the house stays quiet and I stay awake and the stories in my head get worse.</p>
-                <p>I'm not stupid. I know when people are lying to me. I just don't know why. I wish I could know why.</p>
-                <p> RoseShardz - Jane </p>
-            `
-    },
-        "38th Post": {
-            pageTitle: "38th Post",
-            title: "I'm Not Stupid",
-            date: "9th December 2016",
-            time: "12:40am",
-            preview: "I'm writing this because I need to say it out loud somewhere they can't edit my words..",
-            content: `
-                <p>I'm writing this because I need to say it out loud somewhere they can't edit my words. I'm not stupid. I know what's happening.</p>
-                <p>John is gone. Not “on break”. Not “needing space”. Gone. And everyone at HQ is acting like this is normal. Like I'm the problem for not accepting their script.</p>
-                <p>Reese keeps telling me to “focus on work”. Brighteyes sends me messages that sound like they were written by a committee. “We care.” “We're here for you.” “Take your time.” Builderman of all people keeps saying it's all in my head. None of them answer the question I'm actually asking.</p>
-                <p>The mold is still there. The corruption is still spreading. And now the one person who might have believed me without me having to explain every detail is… unavailable. Convenient, isn't it? :)</p>
-                <p>I keep going to shifts. I keep filing reports. I keep pretending I'm fine while the walls close in. But I see it. All of it. The locked doors, the missing logs, the way people look away when I say his name.</p>
-                <p>They think if they keep saying “you're tired” enough times, I'll start believing it. I'm not tired. I'm awake. More awake than I've ever been.</p>
-                <p> RoseShardz - Jane </p>
-            `
-    },
-        "39th Post": {
-            pageTitle: "39th Post",
-            title: "I Quit",
-            date: "6th January 2017",
-            time: "11:40pm",
-            preview: "I left HQ in December..",
-            content: `
-                <p>I left HQ in December. I didn't make a big announcement. I just... stopped going. This is me making it official, I guess.</p>
-                <p>Reese called it “taking a break”. Brighteyes said they'd “keep my desk open”. The way they said it made it sound like I was a stray dog they were pretending not to feed anymore.</p>
-                <p>I told them I was done. That I wasn't coming back. Reese didn't argue. She just looked at me like she was disappointed I'd figure it out.</p>
-                <p>They kept telling me I needed rest. That I was “seeing things”. That the mold was just a bug, the loops were just glitches, John just needed space. But you can't gaslight someone who's already watching the walls breathe.</p>
-                <p>I'm not their moderator anymore. I'm not the one who sniffs corruption in the code and won't shut up about it. I'm just Jane now. Or whatever's left of her.</p>
-                <p> RoseShardz - Jane </p>
-            `
-    },
-        "40th Post": {
-            pageTitle: "40th Post",
-            title: "It's In The House Now",
-            date: "28th January 2017",
-            time: "3:15am",
-            preview: "I thought the mold was just in the experiences..",
-            content: `
-                <p>I thought the mold was just in the experiences. Just in the logs. Just at HQ. I was wrong. It's here now.</p>
-                <p>It started in the corner of Amber's room. A dark patch on the wall that looked like water damage. Except there's no leak. And it doesn't smell like wet plaster. It smells like... like burnt circuits and forgotten instances.</p>
-                <p>I tried scrubbing it. It spread. Not outward, but deeper. Like the more I touched it, the more it realized I was there.</p>
-                <p>John's things are still in the closet. His collared shirt, his vest, his keys, the mug he left on the table that night. I keep waiting for the mold to touch them and it hasn't. Not yet. It's like it's waiting for me to give up before it takes the rest.</p>
-                <p>People around the neighbourhood are calling me “mold girl” now. I heard it when two neighbours were talking eariler when I picked up my mail. Like it's a joke. Like I'm the crazy one for noticing the thing that's eating the world from the inside.</p>
-                <p>Maybe I am. But if I'm moldy, then this whole place is a petri dish.</p>
-                <p> RoseShardz - Jane </p>
-            `
-    },
+        
+
         "41st Post": {
             pageTitle: "41st Post",
             title: "Rumours",
@@ -658,7 +579,7 @@ const blog = {
                 <p> RoseShardz - Jane </p>
             `
     },
-        "42nd Post": {
+    "42nd Post": {
             pageTitle: "42nd Post",
             title: "Bad Habits",
             date: "2nd March 2017",
@@ -668,33 +589,13 @@ const blog = {
                 <p>I know I'm not okay. I know the things I'm doing aren't healthy. But I can't stop. Not until I know.</p>
                 <p>I haven't been eating properly. I forget to drink water. I fell back into smoking like I used to before John and Amber. I often just sit in her room for hours and stare at the mold like it's going to talk to me. Sometimes I swear it moves when I blink.</p>
                 <p>I've been going back to HQ at night. Not inside, just...lurking outside. Walking around the building, watching the lights. There are windows that never turn off. I think that's where they kept the servers. Or whatever they're calling it this week.</p>
-                <p>I keep seeing John's face in my head. Not the way he was when he disappeared. The way he was before. Laughing at Shedletsky's jokes. Blushing when I teased him. How sweet he sounded calling me "My Rose". Our vows. His teary eyed face when he first saw Amber or him talking to her like she could understand every word. The way he held me and never left my side when I hit a place where I couldn't react. How he made me laugh and feel like I wasn't a burden. His lips...</p>
+                <p>I keep seeing John's face in my head. Not the way he was when he disappeared. The way he was before. Laughing at Shedletsky's jokes. Blushing when I teased him. How sweet he sounded calling me "My Rose". Our vows. His teary eyed face when he first saw Amber or him talking to her like she 	could understand every word. The way he held me and never left my side when I hit a place where I couldn't react. How he made me laugh and feel like I wasn't a burden. His lips...</p>
                 <p>I don't know if he's alive. I don't know if “alive” even means the same thing anymore. But... but I know he's somewhere in that building. Or in whatever that building is connected to.</p>
                 <p>I'm going back. One last time. If they lie to me again, I'll know. I'll know by the way they look at me.</p>
                 <p> RoseShardz - Jane </p>
             `
     },
-        "43rd Post": {
-            pageTitle: "43rd Post",
-            title: "I found him.",
-            date: "10th March 2017",
-            time: "11:58pm",
-            preview: "i went back tonight.",
-            content: `
-                <p>I went back tonight. i told myself it was the last time. I just needed to ask. One more time. Please.</p>
-                <p>I went in through the side door. The emergency code hasn't changed as expected.. they never change the code. It's a hazzard that was warned by me and ignored.</p>
-                <p>I heard employees talking, they were deep in the building. Where they keep the restricted servers, I watched through the tiny door window. This "thing" was everywhere in there, thicker than in my house. It was alive.</p>
-                <p>Then i saw him.</p>
-                <p>John. MY John. My husband. My dear husband, John Doe.</p>
-                <p>John was... it was on him. The mold. It was crawling over his skin like it was part of him. One of his eyes was covered by this red thing... he was contained and looked unconcious.</p>
-                <p>Someone was watching the vitals. Talking about him like he was a thing to another co-worker. Like he was a project. As if John wasn't an ordinary person.</p>
-                <p>My breath had stopped. I couldn't move. I just stood there. Motionless.. the people I trusted. The man I married.</p>
-                <p>A noise from the end of the hallway snapped me out. Builderman.</p>
-                <p>I ran. I don't recall the way I made.. I just remember waking up at home with my hands shaking, my head spinning, the anger I felt.</p>
-                <p>This thing is keeping him alive? How. I don't know but I will find out.</p>
-                <p> RoseShardz - Jane </p>
-            `
-    },
+        
         "44th Post": {
             pageTitle: "44th Post",
             title: "Thank You",
@@ -712,28 +613,7 @@ const blog = {
                 <p> - Jane Doe </p>
             `
     },
-        "Post-Realm": {
-            pageTitle: "Post-Realm",
-            title: "459th Day in This Realm",
-            date: " ",
-            time: " ",
-            preview: "I finally got access to this blog again..",
-            content: `
-                <p>I finally got access to this blog again. I don't know what day it is. I don't think there are days here in the way there used to be. There are rounds, deaths, returns, the lights in the lobby changing sometimes, and then the same thing all over again. So I'm calling this the 459th day in this realm because that's the number of days that have passed since I arrived, even though I'm not sure what I was counting.</p>
-                <p>I remember how I got here now. I had been working at my desk, writing reports about the corruption until I couldn't keep my eyes open anymore. I must have fallen asleep over the paperwork. In the dream, John and I were together again. We were smiling. It was our wedding day, and for a little while everything was exactly as it should have been. The kind of happiness that feels too perfect to question.</p>
-                <p>Then the dream changed. The atmosphere went red, the air became hot, and John held me close, except it was't John holding me. It was something wearing the shape of what I had lost. My dress was ruined, the room was gone, and everything disappeared so quickly that it felt like I was losing air in my lungs. I woke up somewhere else, in my study, with my files missing and the walls opening into places I had never seen before.</p>
-                <p> I woke up afterwards. My eyes wide, breathing heavy, hands shaking. Looking around, I was stuck in a sort of place where everything didn't makes sense. A place of broken rigs, models, assets, scripts and other objects that were left to rot away, forever forgotten. I started documenting this to best of my ability.</p>
-                <p>That was when I met it. Him. The thing that watches this place and keeps all of us moving in circles. The Spectre. He told me I was dreaming. He told me none of this was real and that he could bring John back to me if I agreed to help him. I said yes. I said I would do anything. I was grieving, exhausted, and stupid enough to believe that a promise could still be a promise when it came from something like that.</p>
-                <p>My study came with me, but my reports didn't. They were scattered through the different places we're sent to, hidden. I tried to collect them. I thought if I could put everything back together, I might understand where I was and how to leave.</p>
-                <p>Then I saw John.</p>
-                <p>He recognised me. Even with the way Builderman left him in, for one moment, he really recognised me. We kissed, and I thought I had finally found the one thing this place couldn't take from me. I was wrong. That's how I found out The Spectre controls this realm. It took him away, and when he came back, he looked at me like I was a stranger. Filth you rub off your shoe in the middle of the street.</p>
-                <p>The next round, he killed me.</p>
-                <p>I don't know how long I stayed alone after that. Long enough for the lobby to feel safer than the people in it. Long enough to stop searching for my files. Long enough to understand that the thing in charge doesn't need to keep me locked in a room. It only has to keep giving me pieces of John and taking them away again.</p>
-                <p>I'm sorry. I don't want to write about him anymore. Not tonight. It still hurts, and I'm tired of pretending that dying makes it hurt less.</p>
-                <p> VeilOfSplinters - Jane Doe </p>
-            `
-    }
-        
+       
 
 };
 
