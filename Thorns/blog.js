@@ -36,7 +36,7 @@ const blog = {
         time: "10:30pm",
         preview: "Today was my first mission out in the field..",
         content: `
-            <p>Today was my first mission out in the field. I got charged with investigating what's occuring in a few experiences.</p>
+            <p>Today was my first mission out in the field. I got charged with investigating what's occuring in a few places.</p>
             <p>Turns out, there was someone exploiting. Somehow they made a GUI and were using it to bully people around.</p>
             <p>I called over the first in the line, MrDoombringer. He helped me suspend this Robloxian and took them away to a holding cell. 
             I admire him a lot too. Although I didn't like him ruffling my hair and saying I did a good job.</p>
@@ -404,7 +404,7 @@ const blog = {
             preview: "It's been a while..",
             content: `
                 <p>It's been a while. I'm back at HQ now, and... I think I needed this. Or maybe I just needed to not be somewhere else. :P</p>
-                <p>Reese and Brighteyes offered me a promotion a few months ago. More responsibility, more access, more say in how things run. I said yes before I even thought about it. It feels good to have something concrete to focus on.</p>
+                <p>Reese and Brighteyes welcomed me back in and told me the new rules for testers. I have more responsibilities, more access, more say in how things run. It feels good to have something concrete to focus on.</p>
                 <p>Work is... a lot. But in a way that helps. When my head is full of logs and reports and shift schedules, there isn't much room for anything else. I know that's not the healthiest way to think about it, but it works.</p>
                 <p>John worries. He doesn't say it directly, but I can tell. He watches me leave for shifts and watches me come back, like he's waiting for me to break. Maybe I already have. Maybe I'm just better at hiding it now, but his words and kisses make it worth it to still be alive.</p>
                 <p>Brighteyes keeps trying to get me to take breaks, to “go outside”, to “do something that isn't work”. I tell her I will. I don't. Not yet.</p>
@@ -496,9 +496,9 @@ const blog = {
             title: "Something in the Logs",
             date: "22nd July 2015",
             time: "2:10am",
-            preview: "I was on a field patrol tonight, checking a few experiences that had been flagged.",
+            preview: "I was on a field patrol tonight, checking a few places that had been flagged.",
             content: `
-                <p>I was on a field patrol tonight, checking a few experiences that had been flagged. I found something I can't explain. Not yet.</p>
+                <p>I was on a field patrol tonight, checking a few places that had been flagged. I found something I can't explain. Not yet.</p>
                 <p>At first it looked like normal exploit behavior: weird GUIs, strange scripts running where they shouldn't. But then I saw it. A texture that shouldn't exist. A pattern in the code that repeated itself like it was... growing.</p>
                 <p>I took a screenshot and sent it to Reese. She told me to log it as “corruption” and not to touch anything else until we had more data. That word stuck in my head. Corruption.</p>
                 <p>When I went back to review the logs, parts of them were… wrong. Lines missing, timestamps out of order, entries that referenced things that never happened. It's like the system itself is lying to me.</p>
@@ -548,9 +548,9 @@ const blog = {
             title: "The Mold Is Spreading",
             date: "20th August 2016",
             time: "2:45am",
-            preview: "I went back to the experiences where I first saw the mold..",
+            preview: "I went back to the places where I first saw the mold..",
             content: `
-                <p>I went back to the experiences where I first saw the mold. It's worse. It's everywhere now if you know where to look.</p>
+                <p>I went back to the places where I first saw the mold. It's worse. It's everywhere now if you know where to look.</p>
                 <p>Textures flickering in places they shouldn't. NPCs repeating the same line over and over like a broken record. Logs that cut off mid-sentence, like someone reached in and tore the rest out.</p>
                 <p>I've started calling them “loops” in my notes. Not because I think time is literally repeating, but because that's what the data looks like. Events that should be linear fold back on themselves. Outcomes change while the setup stays the same.</p>
                 <p>The mold grows where the loops don't line up. It's like the system is trying to stitch two different versions of reality together and failing.</p>
@@ -561,20 +561,53 @@ const blog = {
                 <p> RoseShardz - Jane </p>
             `
     },
-        
+        "36th Post": {
+            pageTitle: "36th Post",
+            title: "John Didn't Come Home",
+            date: "11th October 2016",
+            time: "1:10am",
+            preview: "John didn't come home last night..",
+            content: `
+                <p>John didn't come home last night. He said he'd be late, but not... this late. His phone goes straight to voicemail.</p>
+                <p>I called the HQ. The person who answered said he wasn't there. That he left earlier in the day. But no one knows where he went after that. No one seems worried either, which is... strange. Feels like they're lying to me somehow. As if they knew more than what they told me.</p>
+                <p>There's one thing I haven't written down. The last time I saw him, he was talking about the “servers” like they were real places. He said if something went wrong, he might “wake up somewhere else” and I wouldn't remember. I thought he was being poetic. Now I'm not sure.</p>
+                <p>I keep telling myself there's a simple explanation. He got caught up in work. He went for a walk. He's avoiding a conversation. But my head keeps going to places I don't want it to.</p>
+                <p>Reese messaged me asking if I was okay. I said “John is missing”. She said “I'm sure he's fine, he just needs space”. How does <strong>she</strong> know what he needs better than <strong>I</strong> do?</p>
+                <p>I'm sitting at the kitchen table with his coffee mug still where he left it. It feels stupid to be scared over a few hours. It also feels like the floor under me is tilting and I'm the only one who notices.</p>
+                <p> RoseShardz - Jane </p>
+            `
+    },    
+    
+        "39th Post": {
+            pageTitle: "39th Post",
+            title: "Life Update",
+            date: "6th January 2017",
+            time: "11:40pm",
+            preview: "I left HQ in December..",
+            content: `
+                <p>I left the HQ in December. I didn't make a big announcement. I just... stopped going. This is me making it official, I guess.</p>
+                <p>I just couldn't keep on when John was one of the people involved in the missing cases. I started investigating them, it led me to a place, secluded from people near a large river, but watching their routines from afar led me to belive I had reached a dead end, so I started over where it led me to this strange place.</p>
+                <p>A voice inside me keeps telling me to stop, to think better,retrace my steps but I can't. Not when i'm this close to figuring our what happened with John.</p>
+                <p>A conserned neighbour asked me if I was okay because i came outside to check my mailbox and (apparently) looked like I hadn't slept in days. I am perfectly okay. I'm doing fine. I am fine. I do not need help. I just need to find my husband. What will be of me if I lose the last thing that makes me smile? I am perfectly capable to do what the incompetent people here can't.</p>
+                <p>Enough of this, I have others conserns too. The mold is starting to spread at my house. I do not feel good about this. How is it here? It pulsates when I stare for it too long. I do not dare myself to touch it. It started in Amber's room and is spredding into mine and John's. I started sleeping in the sofa so i could ignore the buzzing noise it makes.</p>
+                <p> RoseShardz - Jane </p>
+            `
+    },
 
         "41st Post": {
             pageTitle: "41st Post",
             title: "Rumours",
             date: "10th February 2017",
             time: "1:05am",
-            preview: "I shouldn't be reading the forums..",
+            preview: "People around the neighbourhood are calling me “mold girl” now..",
             content: `
-                <p>I shouldn't be reading the forums. I know I shouldn't. But I can't stop. I dug too deep and now everyone is talking about something, and no one will say it out loud.</p>
+                <p>People around the neighbourhood are calling me “mold girl” now. I heard it when two neighbours were talking eariler when I picked up my mail yet again. Like it's a joke. Like I'm the crazy one for wanting concrete answers besides a statistic.</p>
+                <p>Maybe I am. But if I'm moldy, then this whole place is a petri dish.</p>
+                <p>Now, I shouldn't be reading the forums, I know I shouldn't, but I can't stop. I dug too deep and now everyone is talking about something, and no one will say it out loud.</p>
                 <p>There are threads about “the takeover”. About a Robloxian who will "hack" all of Robloxia. About someone who vanished and now will appear somewhere else, changed. This robloxian's name has been said to be my husband, John Doe.</p>
-                <p>One posts said the HQ isn't just a company. It's a “gate”. That the mold isn't a bug, it's a side effect of something much bigger. That people like me and John... we're not employees. We're variables.</p>
-                <p>I keep thinking about what John said that night. About “servers” and “instances”. About waking up somewhere else. I thought he was being poetic. Now I really think he was trying to warn me.</p>
-                <p>I haven't been sleeping. The mold in the house is bigger. It hums sometimes. I know that doesn't make sense. It hums. Like it's running code I can't see.</p>
+                <p>One post said the HQ isn't just a company. That people like me and John, the testers, we're not employees. We're variables.</p>
+                <p>I keep thinking about what John said that night. About the “servers”. About waking up somewhere else. I thought he was being poetic. Now I really think he was trying to warn me.</p>
+                <p>My neighbour was right, I haven't been sleeping. 4-3 hours here and there. But the mold in the house is bigger. It buzzes louder sometimes. I know that doesn't make sense. It buzzes. Like it's running code I can't see.</p>
                 <p>I need answers. Even if they lie to me again, I need to hear the lies in person.</p>
                 <p> RoseShardz - Jane </p>
             `
@@ -607,10 +640,12 @@ const blog = {
                 <p>That "thing" was clearly alive and feeding on John as if he was a host. It pulsated out his skin. John's body looked wrong, his arm was consumed by this thing, his hand elongated as if it was a claw, his back deformed enough that his bones protruded through his body. His face. That thing still in his eye, it looked directly at me when John was far from me, showing me his side. The body turned around, it did not seem human. I wanted to run away, to escape. This isn't my husband.</p>
                 <p> It moved after me, my body moved on it's own towards him. It ignored every scream for help, every cry, every siren, every pulsating sound the enviorment made. I stopped when he was right in front of me. His expression was one of regret. My love.. didn't want this. I touched his face and he melted on my hand as he did before counteless times.. the "claw" held my hand. His unaffected eye stared at me. As if it asked me to help... as if he was in pain...</p>
                 <p>Didn't last long as the upper team of Admins came in to help take John down. Shedletsky, Brighteyes, Dusekkar, Tarabyte, MrDoombringer, Clockwork, Stickmasterluke and... Builderman.</p>
-                <p> I was forced to flea the place, I did not want any of them to see me.</p>
-                <p> WIP </p>
-                <p>This is the last post I make, if you're reading this, I am dead. I want you to know: I saw it. I saw all of it. And I'm not forgetting. Not this time. Not ever.</p>
-                <p> - Jane Doe </p>
+                <p> I was forced to flea the place, I did not want any of them to see me. I ran home. I regret running and not fighting. I wish I did fight.</p>
+                <p> As of writing this, everything has been changed. I did my best to keep only the things I felt were needed for me: John's hat, photos of Amber and my research. This will all come with me.</p>
+                <p> My house will burn. If I can help it, this... "mold" won't leave my house. It will remain here trapped.</p>
+                <p>This is the last post I make, if you're reading this, I am gone. I am chasing this fleeting light, no matter where it takes me.</p>
+                <p> Goodbye. </p>
+                <p> - Jane A. D. Doe </p>
             `
     },
        
